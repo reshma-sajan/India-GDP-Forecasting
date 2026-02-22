@@ -147,4 +147,4 @@ The findings suggest that domestic economic performance plays a stronger short-r
 * Matplotlib
 * NumPy
 
-** - Undergraduate Dissertation Project **
+**- Undergraduate Dissertation Project**
